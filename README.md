@@ -6,7 +6,7 @@ Le flag est composé des cookies de connexion SSH entre l’attaquant et le serv
 
 
 Fichier :
-- [ja4a4a4do0o0re-ssh.pcap](ja4a4a4do0o0re-ssh.pcap)
+- [ja4a4a4do0o0re-ssh.pcap](https://hackropole.fr/filer/fcsc2025-misc-ja4a4a4do0o0re-ssh/public_filer/ja4a4a4do0o0re-ssh.pcap)
 
 
 Auteur : Pac
